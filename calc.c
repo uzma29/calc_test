@@ -16,7 +16,7 @@ int factorial();
 void calculator_operations();
 
 // Start of Main Program
-int main()
+void main()
 {
     int X=1;
     char Calc_oprn;
